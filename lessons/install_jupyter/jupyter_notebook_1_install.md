@@ -48,7 +48,7 @@ At terminal prompt:
  * control + c
  * type:  `y`
  
-```
+```console
 ^C[I 10:34:00.729 NotebookApp] interrupted
 Serving notebooks from local directory: /Users/erikhafner
 0 active kernels
