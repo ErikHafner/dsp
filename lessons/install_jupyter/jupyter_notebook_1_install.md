@@ -48,7 +48,18 @@ At terminal prompt:
  * control + c
  * type:  `y`
  
->my example 
+```
+^C[I 10:34:00.729 NotebookApp] interrupted
+Serving notebooks from local directory: /Users/erikhafner
+0 active kernels
+The Jupyter Notebook is running at:
+http://localhost:8888/?token=70b609ffbed26ddb5575b523d45bf0664ec729c2a50e8432
+Shutdown this notebook server (y/[n])? y
+[C 10:34:05.027 NotebookApp] Shutdown confirmed
+[I 10:34:05.028 NotebookApp] Shutting down 0 kernels
+(base) Eriks-Air:~ erikhafner$ 
+```
+
 ```console
 ^C[I 11:43:35.486 NotebookApp] interrupted
 Serving notebooks from local directory: /Users/reshamashaikh/_ds/metis
