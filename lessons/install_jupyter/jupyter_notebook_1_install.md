@@ -24,12 +24,12 @@ Note:  The notebook will open at the directory in which you launch the notebook 
 ```
 $ jupyter notebook
 ```
->[I 10:18:05.129 NotebookApp] JupyterLab extension loaded from /anaconda3/lib/python3.7/site-packages/jupyterlab
-[I 10:18:05.130 NotebookApp] JupyterLab application directory is /anaconda3/share/jupyter/lab
-[I 10:18:05.134 NotebookApp] Serving notebooks from local directory: /Users/erikhafner
-[I 10:18:05.134 NotebookApp] The Jupyter Notebook is running at:
-[I 10:18:05.134 NotebookApp] http://localhost:8888/?token=70b609ffbed26ddb5575b523d45bf0664ec729c2a50e8432
-[I 10:18:05.134 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+>[I 10:18:05.129 NotebookApp] JupyterLab extension loaded from /anaconda3/lib/python3.7/site-packages/jupyterlab. 
+[I 10:18:05.130 NotebookApp] JupyterLab application directory is /anaconda3/share/jupyter/lab. 
+[I 10:18:05.134 NotebookApp] Serving notebooks from local directory: /Users/erikhafner. 
+[I 10:18:05.134 NotebookApp] The Jupyter Notebook is running at:  
+[I 10:18:05.134 NotebookApp] http://localhost:8888/?token=70b609ffbed26ddb5575b523d45bf0664ec729c2a50e8432. 
+[I 10:18:05.134 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).  
 ```console
 reshama$ jupyter notebook
 [I 11:41:22.769 NotebookApp] Serving notebooks from local directory: /Users/reshamashaikh/_ds/metis
