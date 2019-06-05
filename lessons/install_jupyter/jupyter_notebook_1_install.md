@@ -26,6 +26,7 @@ $ jupyter notebook
 ```
 
 ```
+(base) Eriks-Air:~ erikhafner$ jupyter notebook
 [I 10:18:05.129 NotebookApp] JupyterLab extension loaded from /anaconda3/lib/python3.7/site-packages/jupyterlab 
 [I 10:18:05.130 NotebookApp] JupyterLab application directory is /anaconda3/share/jupyter/lab
 [I 10:18:05.134 NotebookApp] Serving notebooks from local directory: /Users/erikhafner
