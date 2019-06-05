@@ -30,6 +30,7 @@ $ jupyter notebook
 [I 10:18:05.134 NotebookApp] The Jupyter Notebook is running at:  
 [I 10:18:05.134 NotebookApp] http://localhost:8888/?token=70b609ffbed26ddb5575b523d45bf0664ec729c2a50e8432
 [I 10:18:05.134 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation)
+```
 
 ```console
 reshama$ jupyter notebook
